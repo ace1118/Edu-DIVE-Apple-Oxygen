@@ -1221,7 +1221,7 @@ gdjs.LABCode.eventsList15 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9959196);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10446412);
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.LABCode.GDEggplant_95952Objects2 */
@@ -1244,7 +1244,7 @@ gdjs.LABCode.eventsList16 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9408228);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10448284);
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.LABCode.GDEggplant_95952Objects2 */
@@ -1362,7 +1362,7 @@ gdjs.LABCode.eventsList18 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10155020);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10450732);
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.LABCode.GDEggplant_95951Objects2 */
@@ -1385,7 +1385,7 @@ gdjs.LABCode.eventsList19 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10135940);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10453196);
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.LABCode.GDEggplant_95951Objects2 */
@@ -1503,7 +1503,7 @@ gdjs.LABCode.eventsList21 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9409716);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10455644);
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.LABCode.GDSlice_95952Objects2 */
@@ -1526,7 +1526,7 @@ gdjs.LABCode.eventsList22 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10205884);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10458116);
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.LABCode.GDSlice_95952Objects2 */
