@@ -267,7 +267,23 @@ gdjs.copyArray(runtimeScene.getObjects("Presentation"), gdjs.PresentationCode.GD
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(0)) >= 6;
+isConditionTrue_0 = gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(0)) == 6;
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Presentation"), gdjs.PresentationCode.GDPresentationObjects2);
+{for(var i = 0, len = gdjs.PresentationCode.GDPresentationObjects2.length ;i < len;++i) {
+    gdjs.PresentationCode.GDPresentationObjects2[i].getBehavior("Animation").setAnimationName("6");
+}
+}}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(0)) >= 7;
 if (isConditionTrue_0) {
 {runtimeScene.getScene().getVariables().getFromIndex(0).setNumber(1);
 }}
